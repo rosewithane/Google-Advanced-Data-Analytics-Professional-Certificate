@@ -13,6 +13,6 @@ TikTok allows users to submit reports that flag videos and comments with claims,
 - Executive Summary: Create a concise summary of findings to present to stakeholders.
 
 ## Key Tasks:
-Explore and clean the claims dataset.
-Implement and interpret hypothesis testing results.
-Communicate results effectively to stakeholders across different technical and non-technical teams.
+- Explore and clean the claims dataset.
+- Implement and interpret hypothesis testing results.
+- Communicate results effectively to stakeholders across different technical and non-technical teams.
