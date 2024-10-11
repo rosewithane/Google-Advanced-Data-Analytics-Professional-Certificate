@@ -1,5 +1,5 @@
 # TikTok Project
-# Project Overview:
+## Project Overview:
 This project is part of the Course 4 end-of-course portfolio in the Google Advanced Data Analytics Professional Certificate. The goal of the project is to apply exploratory data analysis (EDA) and hypothesis testing to a claims classification problem at TikTok. The project simulates a workplace scenario where TikTok’s data team is developing a predictive model to classify user reports on videos and comments. These reports need to be processed quickly and efficiently by moderators, and the development of this model will help reduce the backlog of reports.
 
 ## Background:
