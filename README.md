@@ -1,5 +1,5 @@
 # Google-Advanced-Data-Analytics-Professional-Certificate
-A comprehensive program focused on advanced data analytics techniques, including data visualization, machine learning, and statistical analysis. This course emphasizes practical, hands-on skills using tools such as Python, SQL, and machine learning frameworks to analyze complex datasets and derive actionable insights.
+A comprehensive programme focused on advanced data analytics techniques, including data visualization, machine learning, and statistical analysis. This course emphasizes practical, hands-on skills using tools such as Python, SQL, and machine learning frameworks to analyze complex datasets and derive actionable insights.
 
 ## Overview
 The Google Advanced Data Analytics Professional Certificate is a rigorous, industry-focused program designed to equip learners with advanced skills in data analytics. It emphasizes both technical and practical aspects of data analytics, helping learners solve complex business problems using data. Over several courses, the program covers key topics such as advanced data manipulation, data visualization, statistical modeling, machine learning, and practical applications of data analysis techniques.
@@ -16,6 +16,6 @@ The Google Advanced Data Analytics Professional Certificate is a rigorous, indus
 - **Exploratory Data Analysis (EDA)**: Analyzing patterns, relationships, and trends using Python and visualization libraries like Matplotlib and Seaborn.
 - **Hypothesis Testing**: Performing statistical tests to validate hypotheses and make data-driven decisions.
 - **Regression & Classification Modeling**: Implementing linear regression, logistic regression, and other machine learning models for predictive analysis.
-- **Clustering & Segmentation**: Using K-means and other clustering techniques to group data points and understand customer or user behavior.
+- **Machine Learning**: Utilising unsupervised machine learning techniques, such as K-means, to discover patterns in data and applying other machine learning models, like Naive Bayes and decision trees.
 - **Advanced Data Visualization**: Creating powerful data visualizations to communicate insights and influence business decisions.
 - **Business Problem-Solving**: Translating business problems into data problems and developing actionable insights.
