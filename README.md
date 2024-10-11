@@ -12,10 +12,10 @@ The Google Advanced Data Analytics Professional Certificate is a rigorous, indus
 - Understanding ethical aspects of data analytics, including bias in machine learning.
 
 ## Key Skills Gained
-**Data Cleaning & Manipulation**: Handling large datasets, cleaning messy data, and performing transformations to prepare data for analysis.
-**Exploratory Data Analysis (EDA)**: Analyzing patterns, relationships, and trends using Python and visualization libraries like Matplotlib and Seaborn.
-**Hypothesis Testing**: Performing statistical tests to validate hypotheses and make data-driven decisions.
-**Regression & Classification Modeling**: Implementing linear regression, logistic regression, and other machine learning models for predictive analysis.
-**Clustering & Segmentation**: Using K-means and other clustering techniques to group data points and understand customer or user behavior.
-**Advanced Data Visualization**: Creating powerful data visualizations to communicate insights and influence business decisions.
-**Business Problem-Solving**: Translating business problems into data problems and developing actionable insights.
+- **Data Cleaning & Manipulation**: Handling large datasets, cleaning messy data, and performing transformations to prepare data for analysis.
+- **Exploratory Data Analysis (EDA)**: Analyzing patterns, relationships, and trends using Python and visualization libraries like Matplotlib and Seaborn.
+- **Hypothesis Testing**: Performing statistical tests to validate hypotheses and make data-driven decisions.
+- **Regression & Classification Modeling**: Implementing linear regression, logistic regression, and other machine learning models for predictive analysis.
+- **Clustering & Segmentation**: Using K-means and other clustering techniques to group data points and understand customer or user behavior.
+- **Advanced Data Visualization**: Creating powerful data visualizations to communicate insights and influence business decisions.
+- **Business Problem-Solving**: Translating business problems into data problems and developing actionable insights.
