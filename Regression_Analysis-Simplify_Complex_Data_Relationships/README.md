@@ -12,7 +12,6 @@ TikTok allows users to submit reports flagging videos or comments that may requi
 - Executive Summary: Provide a concise summary of the model’s performance and its implications for the claims classification task.
 
 ## Key Tasks:
-Identify and apply the right regression method.
-Validate and refine the model by checking assumptions and evaluating its performance.
-Present model insights and recommendations to both technical (data scientists) and cross-functional (operations, finance, project management) team members.
-Team:
+- Identify and apply the right regression method.
+- Validate and refine the model by checking assumptions and evaluating its performance.
+- Present model insights and recommendations to both technical (data scientists) and cross-functional (operations, finance, project management) team members.
